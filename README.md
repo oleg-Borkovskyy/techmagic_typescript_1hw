@@ -37,7 +37,8 @@ $ npm install -g gulp-cli
 $ gulp
 ```
 
-```and you can open index.html file from (**projectfolder**/dist/index.html) in your browser or link to gh-pages
+```
+and you can open index.html file from (**projectfolder**/dist/index.html) in your browser or link to gh-pages
 ```
 
 
